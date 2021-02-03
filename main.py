@@ -1,1 +1,1 @@
-def multiply(a, b):     return a * bprint(7*6)
+def multiply(a, b):     return a * bdef summarize(a,b):    return a + bprint(7*6)
